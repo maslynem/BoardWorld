@@ -1,3 +1,6 @@
 [submodule "bw-commons"]
 	path = bw-commons
 	url = https://github.com/maslynem/bw-commons.git
+[submodule "bw-auth"]
+	path = bw-auth
+	url = https://github.com/maslynem/bw-auth.git
